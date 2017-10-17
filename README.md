@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity() {
 ## Min SDK Version
 
 ```
-Support Min Sdk version >= 21
+Support Min Sdk version >= 16
 
 ```
 
