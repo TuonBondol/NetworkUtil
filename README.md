@@ -20,7 +20,7 @@ Step 2
 
 ```
 dependencies {
-	         compile 'com.github.BondolTuon:NetworkUtil:1.0.2'
+	         compile 'com.github.TuonBondol:NetworkUtil:1.0.2'
 	}
 ```
 
